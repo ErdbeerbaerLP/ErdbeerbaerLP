@@ -13,3 +13,4 @@ I am a hobbyist java developer making minecraft mods and discord bots.
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ErdbeerbaerLP&repo=DiscordIntegration-Forge&theme=transparent)](https://github.com/ErdbeerbaerLP/DiscordIntegration-Forge)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ErdbeerbaerLP&repo=DiscordIntegration-Fabric&theme=transparent)](https://github.com/ErdbeerbaerLP/DiscordIntegration-Fabric)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ErdbeerbaerLP&repo=DiscordIntegration-Spigot&theme=transparent)](https://github.com/ErdbeerbaerLP/DiscordIntegration-Spigot)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ErdbeerbaerLP&repo=vee-cord&theme=transparent)](https://github.com/ErdbeerbaerLP/vee-cord)
