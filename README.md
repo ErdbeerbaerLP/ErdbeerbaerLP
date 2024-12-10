@@ -1,5 +1,5 @@
 # Hi!
-[![](https://dcbadge.limes.pink/api/shield/135802962013454336?style=flat)](https://discord.gg/PGPWdRBQms)
+[![](https://dcbadge.limes.pink/api/shield/135802962013454336?style=flat)](https://erd.wtf/discord)
 [![](http://cf.way2muchnoise.eu/author/full_ErdbeerbaerLP_downloads.svg)](https://www.curseforge.com/members/erdbeerbaerlp/projects)
 
 
